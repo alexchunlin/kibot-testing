@@ -1,5 +1,5 @@
 # KiBot configuration file for KDT_Hierarchical Template
-# KiCad 8.0
+# KiCad 9.0
 
 kibot:
   version: 1
@@ -557,14 +557,14 @@ definitions:
 
   # Metadata ===================================================================
 
-  PROJECT_NAME: Project Name
-  BOARD_NAME: Board Name
+  PROJECT_NAME: CICD-Test
+  BOARD_NAME: EncoderGo
 
-  COMPANY: Company Name
-  DESIGNER: Author
+  COMPANY: EveryFlavorRobotics
+  DESIGNER: Alexchunlin
 
   LOGO: 'Logos/dummy_logo.png'
-  GIT_URL: 'https://github.com/nguyen-v/KDT_Hierarchical_KiBot'
+  GIT_URL: 'https://github.com/alexchunlin/kibot-testing'
 
   # Preflight ==================================================================
 

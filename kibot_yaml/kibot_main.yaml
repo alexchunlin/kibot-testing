@@ -558,12 +558,12 @@ definitions:
   # Metadata ===================================================================
 
   PROJECT_NAME: CICD-Test
-  BOARD_NAME: EncoderGo
+  BOARD_NAME: EncoGo
 
   COMPANY: EveryFlavorRobotics
   DESIGNER: Alexchunlin
 
-  LOGO: 'Logos/dummy_logo.png'
+  LOGO: 'Logos/encoGo.png'
   GIT_URL: 'https://github.com/alexchunlin/kibot-testing'
 
   # Preflight ==================================================================

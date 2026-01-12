@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "07236397-3ba4-47af-9809-3faac3a2aa49")
 	(paper "A3")
 	(title_block
@@ -11,46 +11,6 @@
 		(company "${COMPANY}")
 	)
 	(lib_symbols)
-	(polyline
-		(pts
-			(xy 185.42 87.63) (xy 185.42 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b678fb1-fee7-4461-95f7-7f383f478fdc")
-	)
-	(polyline
-		(pts
-			(xy 233.68 125.73) (xy 233.68 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c7de816-3d34-497f-b0c8-22f80559d2d8")
-	)
-	(polyline
-		(pts
-			(xy 185.42 85.09) (xy 185.42 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "903e49b2-1b5d-4317-a33b-adfda1594a88")
-	)
-	(polyline
-		(pts
-			(xy 233.68 114.3) (xy 233.68 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9543d363-0f36-4c41-97bc-b97723f48818")
-	)
 	(arc
 		(start 185.42 85.09)
 		(mid 185.0451 85.9851)
@@ -155,13 +115,42 @@
 		)
 		(uuid fda911f3-adb3-4abb-981f-a877a93c831b)
 	)
-	(text_box "Description"
+	(text "Mechanicals"
+		(exclude_from_sim no)
+		(at 226.06 133.35 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+				(color 100 70 50 1)
+			)
+			(justify right bottom)
+			(href "#5")
+		)
+		(uuid "b60ecde0-2a85-4071-a728-47148cd80779")
+	)
+	(text "MT6701"
+		(exclude_from_sim no)
+		(at 226.06 95.25 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+				(color 20 60 40 1)
+			)
+			(justify right bottom)
+			(href "#4")
+		)
+		(uuid "f04f874a-d252-4474-87f2-c34bbb094a4c")
+	)
+	(text_box "Sensor"
 		(exclude_from_sim no)
 		(at 166.37 83.82 0)
 		(size 17.145 5.08)
+		(margins 1.4287 1.4287 1.4287 1.4287)
 		(stroke
 			(width -0.0001)
-			(type default)
+			(type solid)
 		)
 		(fill
 			(type none)
@@ -177,13 +166,14 @@
 		)
 		(uuid "971f0c48-6726-412d-badf-cee82cbffedd")
 	)
-	(text_box "Description"
+	(text_box "Connectors and mounting"
 		(exclude_from_sim no)
 		(at 234.95 121.92 0)
 		(size 26.015 5.1)
+		(margins 1.4287 1.4287 1.4287 1.4287)
 		(stroke
 			(width -0.0001)
-			(type default)
+			(type solid)
 		)
 		(fill
 			(type none)
@@ -203,6 +193,7 @@
 		(exclude_from_sim no)
 		(at 144.78 21.59 0)
 		(size 130.81 12.7)
+		(margins 5.9999 5.9999 5.9999 5.9999)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -221,37 +212,53 @@
 		)
 		(uuid "f4789478-c68e-4cee-9edd-5d11b744f94d")
 	)
-	(text "Page 5"
-		(exclude_from_sim no)
-		(at 226.06 133.35 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(bold yes)
-				(color 100 70 50 1)
-			)
-			(justify right bottom)
-			(href "#5")
+	(polyline
+		(pts
+			(xy 185.42 87.63) (xy 185.42 99.06)
 		)
-		(uuid "b60ecde0-2a85-4071-a728-47148cd80779")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b678fb1-fee7-4461-95f7-7f383f478fdc")
 	)
-	(text "Page 4"
-		(exclude_from_sim no)
-		(at 226.06 95.25 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(bold yes)
-				(color 20 60 40 1)
-			)
-			(justify right bottom)
-			(href "#4")
+	(polyline
+		(pts
+			(xy 233.68 125.73) (xy 233.68 134.62)
 		)
-		(uuid "f04f874a-d252-4474-87f2-c34bbb094a4c")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c7de816-3d34-497f-b0c8-22f80559d2d8")
+	)
+	(polyline
+		(pts
+			(xy 185.42 85.09) (xy 185.42 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "903e49b2-1b5d-4317-a33b-adfda1594a88")
+	)
+	(polyline
+		(pts
+			(xy 233.68 114.3) (xy 233.68 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9543d363-0f36-4c41-97bc-b97723f48818")
 	)
 	(sheet
 		(at 190.5 114.3)
 		(size 36.83 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -282,7 +289,7 @@
 			)
 		)
 		(instances
-			(project "KDT_Hierarchical_KiBot"
+			(project "kibot-test-cicd"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/c5103ceb-5325-4a84-a025-9638a412984e"
 					(page "5")
 				)
@@ -292,6 +299,10 @@
 	(sheet
 		(at 190.5 76.2)
 		(size 36.83 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -322,7 +333,7 @@
 			)
 		)
 		(instances
-			(project "KDT_Hierarchical_KiBot"
+			(project "kibot-test-cicd"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/c5103ceb-5325-4a84-a025-9638a412984e"
 					(page "4")
 				)

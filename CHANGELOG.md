@@ -2,18 +2,14 @@
 
 ## [Unreleased]
 
-### Fixed
-
--   Fixes
-
 ### Added
 
--   Additions
+	- initial schematic for MT6701 Encoder
+	- initial pcb file for milling process
+	- selected footprints
+	- added LED indicator and mounting holes
 
-### Changed
-
--   Changes
+### Changes
+	- renamed schematic pages
 
 ### Removed
-
--   Deletions

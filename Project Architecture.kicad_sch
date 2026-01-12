@@ -278,7 +278,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Section B - TItle B.kicad_sch"
+		(property "Sheetfile" "Section B - Mechanicals.kicad_sch"
 			(at 190.5 135.2046 0)
 			(effects
 				(font
@@ -322,7 +322,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Section A - Title A.kicad_sch"
+		(property "Sheetfile" "Section A - Sensor.kicad_sch"
 			(at 190.5 97.1046 0)
 			(effects
 				(font

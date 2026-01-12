@@ -1353,7 +1353,7 @@
 			(uuid "a072b8fe-a2f9-4272-b6d7-327296901534")
 		)
 		(instances
-			(project ""
+			(project "kibot-test-cicd"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c"
 					(reference "C1")
 					(unit 1)
@@ -1441,7 +1441,7 @@
 			(uuid "6b105ee5-239a-4d74-b784-3d144a33f15b")
 		)
 		(instances
-			(project ""
+			(project "kibot-test-cicd"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c"
 					(reference "U1")
 					(unit 1)
@@ -1507,7 +1507,7 @@
 			(uuid "b8cb19be-654c-4eb5-9bac-32be8b2af55b")
 		)
 		(instances
-			(project ""
+			(project "kibot-test-cicd"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c"
 					(reference "#PWR01")
 					(unit 1)
@@ -1643,7 +1643,7 @@
 			(uuid "91db1d87-7c4a-42c5-a4e9-d4e98ac15a66")
 		)
 		(instances
-			(project ""
+			(project "kibot-test-cicd"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c"
 					(reference "D1")
 					(unit 1)
@@ -1709,7 +1709,7 @@
 			(uuid "00c768a5-ef1a-4611-ac25-34252d32ca85")
 		)
 		(instances
-			(project ""
+			(project "kibot-test-cicd"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c"
 					(reference "#PWR02")
 					(unit 1)

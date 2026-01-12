@@ -1,1 +1,7 @@
 Row,Quantity Per PCB,References,Value,Datasheet,Footprint,Description,Manufacturer,Manufacturer Part Number,Supplier Part Number
+1,1,C1,0.1uF,~,C_0603_1608Metric,Unpolarized capacitor,,,
+2,1,D1,ESD9B3.3ST5G,https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF,D_SOD-923,"ESD protection diode, 3.3Vrwm, SOD-923",,,
+3,1,D2,LED,~,LED_0603_1608Metric,Light emitting diode,,,
+4,2,J1 J2,Conn_02x04_Counter_Clockwise,~,PinHeader_2x04_P2.54mm_Vertical,"Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/) Generic connector, single row, 01x05, script generated",,,
+5,1,R1,5k,~,R_0402_1005Metric,"Resistor, small US symbol",,,
+6,1,U1,MT6701CT,https://www.magntek.com.cn/upload/MT6701_Rev.1.5.pdf,SO-8_3.9x4.9mm_P1.27mm,"Hall Based Angle Position Encoder Sensor, I2C, SSI, ABZ & UVW interfaces, 3.3..5V supply, SOIC-8",,,

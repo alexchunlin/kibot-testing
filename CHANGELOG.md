@@ -3,6 +3,9 @@
 ## [Unreleased]
 
 ## [1.0.0] - 2026-01-12
+### Fixed
+	- J1 footprint updated to match symbol
+	- D2 polarity fixed in indicators sch
 
 ### Added
 

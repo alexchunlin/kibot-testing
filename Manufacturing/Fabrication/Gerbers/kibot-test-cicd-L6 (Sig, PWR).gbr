@@ -2,7 +2,7 @@
 %TF.CreationDate,Date%
 %TF.ProjectId,kibot-test-cicd,6b69626f-742d-4746-9573-742d63696364,0.1.0+ (Unreleased)*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Copper,L6,Bot*%
+%TF.FileFunction,Copper,L4,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
@@ -37,6 +37,12 @@ G04 Aperture macros list end*
 %TD*%
 %TA.AperFunction,SMDPad,CuDef*%
 %ADD12RoundRect,0.150000X-0.725000X-0.150000X0.725000X-0.150000X0.725000X0.150000X-0.725000X0.150000X0*%
+%TD*%
+%TA.AperFunction,ViaPad*%
+%ADD13C,0.550000*%
+%TD*%
+%TA.AperFunction,Conductor*%
+%ADD14C,0.200000*%
 %TD*%
 G04 APERTURE END LIST*
 D10*
@@ -91,5 +97,18 @@ X151075000Y-90635000D03*
 %TO.P,U1,8,Z*%
 %TO.N,Z-CS*%
 X151075000Y-91905000D03*
+%TD*%
+D13*
+%TO.N,out_sel*%
+X143891000Y-91821000D03*
+%TD*%
+D14*
+%TO.N,out_sel*%
+X143891000Y-90524001D02*
+X143891000Y-91821000D01*
+X145925000Y-89365000D02*
+X145050001Y-89365000D01*
+X145050001Y-89365000D02*
+X143891000Y-90524001D01*
 %TD*%
 M02*

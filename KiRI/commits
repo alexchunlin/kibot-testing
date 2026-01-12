@@ -1,4 +1,4 @@
 _local_|2026-01-12|root|Local changes not committed|False|True
+b507100|2026-01-12|alexchunlin|[PCB] added ground plane|False|True
 49b666b|2026-01-12|alexchunlin|[PCB] added basic layout|True|True
 3769886|2026-01-12|alexchunlin|[bugfix] fixed J1 connector footprint and power indicator D2 polarity|True|False
-9c4664f|2026-01-12|alexchunlin|[added] completed initial sch design, move from draft to preliminary|True|False

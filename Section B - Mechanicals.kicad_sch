@@ -2490,7 +2490,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a7f59fc6-ab48-4494-8e23-0d6b3c157aee")
 		(property "Reference" "R1"
 			(at 270.51 163.8299 0)
@@ -2712,7 +2711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical"
 			(at 193.04 78.74 0)
 			(effects
 				(font

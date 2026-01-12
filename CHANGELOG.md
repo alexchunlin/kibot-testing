@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Fixed
+	- J1 footprint updated to match symbol
+	- D2 polarity fixed in indicators sch.
+
 ### Added
 
 	- initial schematic for MT6701 Encoder

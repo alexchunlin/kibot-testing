@@ -36,13 +36,13 @@
 	SELECTED HOLE LOCATIONS SHOWN ON THIS DRAWING 
 	FOR REFERENCE ONLY.
 
-4)	SURFACE FINISH: IMMERSION GOLD
+4)	SURFACE FINISH: ENIG
 
 5)	SOLDERMASK ON BOTH SIDES OF THE BOARD SHALL 
 	BE LPI, COLOR BLUE.
 
 6)	SILK SCREEN LEGEND TO BE APPLIED PER LAYER 
-	STACKUP USING YELLOW NON-CONDUCTIVE EPOXY INK.
+	STACKUP USING WHITE NON-CONDUCTIVE EPOXY INK.
 
 7)	ALL VIAS ARE TENTED ON BOTH SIDES UNLESS 
 	SOLDERMASK OPENED IN GERBER.
@@ -60,7 +60,7 @@
 
 10)	DESIGN GEOMETRY MINIMUM FEATURE SIZES:
 
-	BOARD SIZE				47.003 × 47.003 mm
+	BOARD SIZE				40.000 × 40.000 mm
 	BOARD THICKNESS		1.660 mm
 	TRACE WIDTH			0.200 mm
 	TRACE TO TRACE		0.200 mm
@@ -74,7 +74,7 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">b507100</textvar>
+    <textvar name="GIT_HASH_PCB">a33393d</textvar>
     <textvar name="GIT_HASH_SCH">9c4664f</textvar>
     <textvar name="GIT_URL">https://github.com/alexchunlin/kibot-testing</textvar>
     <textvar name="PROJECT_NAME">CICD-Test</textvar>
@@ -83,8 +83,8 @@
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">12-Jan-2026</textvar>
-    <textvar name="RELEASE_DATE_NUM">2026-01-12</textvar>
+    <textvar name="RELEASE_DATE">14-Jan-2026</textvar>
+    <textvar name="RELEASE_DATE_NUM">2026-01-14</textvar>
     <textvar name="RELEASE_TITLE_1.0.0"/>
     <textvar name="RELEASE_TITLE_1.0.1"/>
     <textvar name="RELEASE_TITLE_1.0.2"/>

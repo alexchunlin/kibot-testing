@@ -6,6 +6,7 @@
 ### Fixed
 	- J1 footprint updated to match symbol
 	- D2 polarity fixed in indicators sch
+  - Dimension layer was adjusted to match design
 
 ### Added
 
@@ -13,10 +14,12 @@
     - initial pcb file for milling process
     - selected footprints
     - added LED indicator and mounting holes
+    - EncoGo Logo on silkscreen
 
 ### Changes
 
     - renamed schematic pages
+    - switched to 2-layer design in stackup 
 
 ### Removed
 

@@ -1,8 +1,8 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
-"C1","0.1uF","C_0603_1608Metric",79.7640,17.1000,-90.0000,top
-"D1","ESD9B3.3ST5G","D_SOD-923",96.5280,15.0680,90.0000,top
-"D2","LED","LED_0603_1608Metric",80.7800,4.4000,-90.0000,top
-"J1","Conn_02x04_Counter_Clockwise","PinHeader_2x04_P2.54mm_Vertical",69.3550,12.0200,180.0000,top
+"C1","0.1uF","C_0603_1608Metric",82.0400,13.2050,90.0000,top
+"D1","ESD9B3.3ST5G","D_SOD-923",96.1860,15.5760,0.0000,top
+"D2","LED","LED_0603_1608Metric",80.2720,11.5120,-90.0000,top
+"J1","Conn_02x04_Counter_Clockwise","PinHeader_2x04_P2.54mm_Vertical",70.1120,12.0200,180.0000,top
 "J2","Conn_01x05_Pin","JST_SH_BM05B-SRSS-TB_1x05-1MP_P1.00mm_Vertical",99.8300,15.8300,-90.0000,top
-"R1","5k","R_0402_1005Metric",83.8300,3.1300,0.0000,top
+"R1","5k","R_0402_1005Metric",82.0500,10.2420,-90.0000,top
 "U1","MT6701CT","SO-8_3.9x4.9mm_P1.27mm",84.5000,16.0000,0.0000,bottom

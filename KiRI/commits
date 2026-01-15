@@ -1,4 +1,4 @@
 _local_|2026-01-15|root|Local changes not committed|False|True
+b61bcd4|2026-01-15|alexchunlin|fixed the via sizes to match the HERL capabilities|False|True
 a73b942|2026-01-15|alexchunlin|fixed ERC violations|True|False
 50500ab|2026-01-15|alexchunlin|DRC violations fixed|False|True
-a33393d|2026-01-14|alexchunlin|minor adjustments|False|True

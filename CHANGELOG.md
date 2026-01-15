@@ -20,6 +20,7 @@
 
     - renamed schematic pages
     - switched to 2-layer design in stackup 
+    - changed via sizes to match 0.6mm rivet via requirements
 
 ### Removed
 

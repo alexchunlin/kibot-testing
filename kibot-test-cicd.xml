@@ -74,7 +74,7 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">a33393d</textvar>
+    <textvar name="GIT_HASH_PCB">50500ab</textvar>
     <textvar name="GIT_HASH_SCH">9c4664f</textvar>
     <textvar name="GIT_URL">https://github.com/alexchunlin/kibot-testing</textvar>
     <textvar name="PROJECT_NAME">CICD-Test</textvar>
@@ -83,8 +83,8 @@
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">14-Jan-2026</textvar>
-    <textvar name="RELEASE_DATE_NUM">2026-01-14</textvar>
+    <textvar name="RELEASE_DATE">15-Jan-2026</textvar>
+    <textvar name="RELEASE_DATE_NUM">2026-01-15</textvar>
     <textvar name="RELEASE_TITLE_1.0.0"/>
     <textvar name="RELEASE_TITLE_1.0.1"/>
     <textvar name="RELEASE_TITLE_1.0.2"/>
@@ -131,7 +131,7 @@
     <textvar name="SHEET_NAME_7">Revision History</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
-    <textvar name="VARIANT">PRELIMINARY</textvar>
+    <textvar name="VARIANT">CHECKED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Cover Page</title>

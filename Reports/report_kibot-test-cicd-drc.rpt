@@ -1,0 +1,25 @@
+** Drc report for kibot-test-cicd.kicad_pcb **
+** Created on 2026-01-15T18:30:57+0000 **
+
+** Found 5 DRC violations **
+[lib_footprint_mismatch]: Footprint 'SO-8_3.9x4.9mm_P1.27mm' does not match copy in library 'Package_SO'.
+    ; warning
+    @(148.5 mm, 90.0 mm): Footprint U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(167.13 mm, 90.17 mm): Reference field of J2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(130.192 mm, 95.36 mm): Segment of J1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(132.842 mm, 95.36 mm): Segment of J1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(135.492 mm, 84.98 mm): Segment of J1 on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

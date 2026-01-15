@@ -1,4 +1,4 @@
-_local_|2026-01-14|root|Local changes not committed|False|True
+_local_|2026-01-15|root|Local changes not committed|False|True
+a73b942|2026-01-15|alexchunlin|fixed ERC violations|True|False
+50500ab|2026-01-15|alexchunlin|DRC violations fixed|False|True
 a33393d|2026-01-14|alexchunlin|minor adjustments|False|True
-cb30618|2026-01-14|alexchunlin|[PCB] finished layout|False|True
-b507100|2026-01-12|alexchunlin|[PCB] added ground plane|False|True

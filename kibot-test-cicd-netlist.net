@@ -1,6 +1,6 @@
 (export (version "E")
   (design
-    (source "/tmp/tmp-kibot-net_sch_print-ph99ggmm/kibot-test-cicd.kicad_sch")
+    (source "/tmp/tmp-kibot-net_sch_print-ea8kx_xr/kibot-test-cicd.kicad_sch")
     (date "Date")
     (tool "Eeschema 9.0.6+1")
     (textvar (name "ASSEMBLY_NOTES") "ASSEMBLY NOTES (UNLESS OTHERWISE SPECIFIED)\n\n1)	DO NOT POPULATE PARTS ARE MARKED WITH A RED CROSS.\n\n2)	DO NOT POPULATE PARTS ARE NOT PRESENT IN THE BOM.\n\n3)	IF CONFLICTING INFORMATION IS FOUND BETWEEN THE ASSEMBLY\n	FILE AND BOM, BOM SHOULD BE USED AS THE MAIN SOURCE.\n\n4)	CONFORMAL COATING IS NOT REQUIRED.\n\n5)	DOT IDENTIFIES PIN #1 LOCATION AND DEVICE ORIENTATION\n	WHEN VIEWED FROM THE TOP.")
@@ -17,8 +17,8 @@
     (textvar (name "RELEASE_BODY_1.0.2"))
     (textvar (name "RELEASE_BODY_1.1.0"))
     (textvar (name "RELEASE_BODY_UNRELEASED") "Version Unreleased not found.")
-    (textvar (name "RELEASE_DATE") "15-Jan-2026")
-    (textvar (name "RELEASE_DATE_NUM") "2026-01-15")
+    (textvar (name "RELEASE_DATE") "16-Jan-2026")
+    (textvar (name "RELEASE_DATE_NUM") "2026-01-16")
     (textvar (name "RELEASE_TITLE_1.0.0"))
     (textvar (name "RELEASE_TITLE_1.0.1"))
     (textvar (name "RELEASE_TITLE_1.0.2"))
@@ -65,7 +65,7 @@
     (textvar (name "SHEET_NAME_7") "Revision History")
     (textvar (name "SHEET_NAME_8") "......................................")
     (textvar (name "SHEET_NAME_9") "......................................")
-    (textvar (name "VARIANT") "CHECKED")
+    (textvar (name "VARIANT") "RELEASED")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
         (title "Cover Page")

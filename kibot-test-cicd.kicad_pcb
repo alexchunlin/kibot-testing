@@ -25005,7 +25005,7 @@
 		(render_cache "" 0)
 	)
 	(gr_text "z = 1.45mm Min - 1.75mm Max"
-		(at 156.8 84.05 0)
+		(at 156.85 83.95 0)
 		(layer "User.7")
 		(uuid "14330811-2292-481b-bd54-4666b99df167")
 		(effects

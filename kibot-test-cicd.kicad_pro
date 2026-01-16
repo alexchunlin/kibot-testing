@@ -1048,8 +1048,8 @@
     "RELEASE_BODY_1.0.2": "",
     "RELEASE_BODY_1.1.0": "",
     "RELEASE_BODY_UNRELEASED": "Version Unreleased not found.",
-    "RELEASE_DATE": "12-Jan-2026",
-    "RELEASE_DATE_NUM": "2026-01-12",
+    "RELEASE_DATE": "16-Jan-2026",
+    "RELEASE_DATE_NUM": "2026-01-16",
     "RELEASE_TITLE_1.0.0": "",
     "RELEASE_TITLE_1.0.1": "",
     "RELEASE_TITLE_1.0.2": "",
@@ -1096,6 +1096,6 @@
     "SHEET_NAME_7": "Revision History",
     "SHEET_NAME_8": "......................................",
     "SHEET_NAME_9": "......................................",
-    "VARIANT": "PRELIMINARY"
+    "VARIANT": "RELEASED"
   }
 }

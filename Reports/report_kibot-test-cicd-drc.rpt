@@ -1,7 +1,58 @@
 ** Drc report for kibot-test-cicd.kicad_pcb **
-** Created on 2026-01-16T19:12:34+0000 **
+** Created on 2026-01-16T22:04:42+0000 **
 
-** Found 5 DRC violations **
+** Found 22 DRC violations **
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(130.0 mm, 90.0 mm): Zone [GND] on L1 (Sig, PWR) and L6 (Sig, PWR), priority 0
 [lib_footprint_mismatch]: Footprint 'SO-8_3.9x4.9mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
     @(148.5 mm, 90.0 mm): Footprint U1
